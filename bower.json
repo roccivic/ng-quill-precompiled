@@ -1,0 +1,13 @@
+{
+  "name": "ng-quill-precompiled",
+  "homepage": "https://github.com/roccivic/ng-quill-precompiled",
+  "authors": [
+    "Rouslan Placella <rouslan@placella.com>"
+  ],
+  "description": "Precompiled ng-quill and quill.js",
+  "main": [
+    "quill.snow.css",
+    "ng-quill-complete.js"
+  ],
+  "license": "UNLICENSED"
+}
